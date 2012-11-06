@@ -1,0 +1,44 @@
+c:\users\anant pushkar\documents\visual studio 2010\Projects\bookSharer\bookSharer\obj\Debug\App.g.i.cs
+c:\users\anant pushkar\documents\visual studio 2010\Projects\bookSharer\bookSharer\obj\Debug\MainPage.g.i.cs
+c:\users\anant pushkar\documents\visual studio 2010\Projects\bookSharer\bookSharer\obj\Debug\bookSharer.g.resources
+c:\users\anant pushkar\documents\visual studio 2010\Projects\bookSharer\bookSharer\Bin\Debug\ApplicationIcon.png
+c:\users\anant pushkar\documents\visual studio 2010\Projects\bookSharer\bookSharer\Bin\Debug\Background.png
+c:\users\anant pushkar\documents\visual studio 2010\Projects\bookSharer\bookSharer\Bin\Debug\bookSharer.dll
+c:\users\anant pushkar\documents\visual studio 2010\Projects\bookSharer\bookSharer\Bin\Debug\bookSharer.pdb
+c:\users\anant pushkar\documents\visual studio 2010\Projects\bookSharer\bookSharer\Bin\Debug\AppManifest.xaml
+c:\users\anant pushkar\documents\visual studio 2010\Projects\bookSharer\bookSharer\Bin\Debug\bookSharer.xap
+c:\users\anant pushkar\documents\visual studio 2010\Projects\bookSharer\bookSharer\obj\Debug\bookSharer.dll
+c:\users\anant pushkar\documents\visual studio 2010\Projects\bookSharer\bookSharer\obj\Debug\bookSharer.pdb
+c:\users\anant pushkar\documents\visual studio 2010\Projects\bookSharer\bookSharer\obj\Debug\XapCacheFile.xml
+c:\users\anant pushkar\documents\visual studio 2010\Projects\bookSharer\bookSharer\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+c:\users\anant pushkar\documents\visual studio 2010\Projects\bookSharer\bookSharer\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+H:\bookSharer\bookSharer\Bin\Debug\ApplicationIcon.png
+H:\bookSharer\bookSharer\Bin\Debug\Background.png
+H:\bookSharer\bookSharer\Bin\Debug\bookSharer.dll
+H:\bookSharer\bookSharer\Bin\Debug\bookSharer.pdb
+H:\bookSharer\bookSharer\Bin\Debug\AppManifest.xaml
+H:\bookSharer\bookSharer\Bin\Debug\bookSharer.xap
+H:\bookSharer\bookSharer\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+H:\bookSharer\bookSharer\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+H:\bookSharer\bookSharer\obj\Debug\ResolveAssemblyReference.cache
+H:\bookSharer\bookSharer\obj\Debug\App.g.i.cs
+H:\bookSharer\bookSharer\obj\Debug\MainPage.g.i.cs
+H:\bookSharer\bookSharer\obj\Debug\bookSharer.g.resources
+H:\bookSharer\bookSharer\obj\Debug\bookSharer.dll
+H:\bookSharer\bookSharer\obj\Debug\bookSharer.pdb
+H:\bookSharer\bookSharer\obj\Debug\XapCacheFile.xml
+J:\bookSharer\bookSharer\Bin\Debug\ApplicationIcon.png
+J:\bookSharer\bookSharer\Bin\Debug\Background.png
+J:\bookSharer\bookSharer\Bin\Debug\bookSharer.dll
+J:\bookSharer\bookSharer\Bin\Debug\bookSharer.pdb
+J:\bookSharer\bookSharer\Bin\Debug\AppManifest.xaml
+J:\bookSharer\bookSharer\Bin\Debug\bookSharer.xap
+J:\bookSharer\bookSharer\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+J:\bookSharer\bookSharer\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+J:\bookSharer\bookSharer\obj\Debug\bookSharer.csprojResolveAssemblyReference.cache
+J:\bookSharer\bookSharer\obj\Debug\App.g.i.cs
+J:\bookSharer\bookSharer\obj\Debug\MainPage.g.i.cs
+J:\bookSharer\bookSharer\obj\Debug\bookSharer.g.resources
+J:\bookSharer\bookSharer\obj\Debug\bookSharer.dll
+J:\bookSharer\bookSharer\obj\Debug\bookSharer.pdb
+J:\bookSharer\bookSharer\obj\Debug\XapCacheFile.xml
